@@ -1,1 +1,1 @@
-# Mohithsajatling-Gesture-Control-on-Virtual-Mouse
+Gesture-Control-on-Virtual-Mouse
